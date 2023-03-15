@@ -16,7 +16,7 @@ git remote add <none> <url>
 
 **Caricare il lavoro locale sul repository remoto**
 
-git push remote ramo--locale
+git push (remote) (ramo--locale)
 
 
 **Aggiornare la copia locale del repository allineandola con la versione remota**
